@@ -1,5 +1,5 @@
 # policy-interpretations
-This repository contains the code and links to the data and trained models for the paper [Generating Interpretations of Policy Announcements](#) presented at the NLP4DH workshop at EMNLP 2024.
+This repository contains the code and links to the data and trained models for the paper [Generating Interpretations of Policy Announcements](https://aclanthology.org/2024.nlp4dh-1.50/) presented at the NLP4DH workshop at EMNLP 2024.
 
 ## Contents
 1. [Short Description](#short-description)
@@ -79,9 +79,18 @@ If you use our code, data or models, please cite us.
       Thornton, Ashley  and
       Sylvan, David  and
       Henderson, James",
-    booktitle = "Proceedings of the 4th International Workshop on Natural Language Processing for Digital Humanities",
+    editor = {H{\"a}m{\"a}l{\"a}inen, Mika  and
+      {\"O}hman, Emily  and
+      Miyagawa, So  and
+      Alnajjar, Khalid  and
+      Bizzoni, Yuri},
+    booktitle = "Proceedings of the 4th International Conference on Natural Language Processing for Digital Humanities",
     month = nov,
     year = "2024",
-    publisher = "Association for Computational Linguistics",    
+    address = "Miami, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.nlp4dh-1.50",
+    pages = "513--520",
 }
+
 ```
